@@ -1,5 +1,5 @@
-## Knowledge (1w)
-# HTML
+# Knowledge (1w)
+## HTML
 [HTML5 Tutorial on W3schools](https://www.w3schools.com/html/default.asp)
 **HTML elements.**
 *Answer what, when, why for each element*
@@ -24,7 +24,7 @@
 * [HTML5 Browser Support](https://www.w3schools.com/html/html5_browsers.asp "HTML5 Browser Support")
 * [What are Semantic Elements?](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-# CSS
+## CSS
 *Request understand  basic css syntax, how to use, how to setup color ( include text color, background color, border color ), padding, magrin, width, height*
 [CSS Tutorial on W3schools](https://www.w3schools.com/css/default.asp)
 
@@ -33,13 +33,13 @@
 * [How to import font](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
 * [Font icon](https://www.sitepoint.com/introduction-icon-fonts-font-awesome-icomoon/)
 
-# JS
+## JS
 
 https://www.w3schools.com/js/default.asp
 https://www.udemy.com/javascriptfundamentals/
 https://developer.mozilla.org/vi/docs/Web/JavaScript
 
-# How To
+## How To
 
 ### html/css
 * CSS Loader (https://www.w3schools.com/howto/howto_css_loader.asp)
@@ -67,7 +67,7 @@ https://developer.mozilla.org/vi/docs/Web/JavaScript
 * Slide Bar on Scroll (https://www.w3schools.com/howto/howto_js_navbar_slide.asp)
 * Scroll Indicator (https://www.w3schools.com/howto/howto_js_scroll_indicator.asp)
 
-### Advanced
+### Advanced (option)
 * Fullscreen Navigation (https://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp)
 * Image Zoom (https://www.w3schools.com/howto/howto_js_image_zoom.asp)
 * Image Magnifier Glass (https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp)
@@ -76,8 +76,11 @@ https://developer.mozilla.org/vi/docs/Web/JavaScript
 * Custom Scrollbars (https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp)
 * Autocomplete (https://www.w3schools.com/howto/howto_js_autocomplete.asp)
 * Fullscreen Video Background (https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
+## Responsive Web
+Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones)
+https://developers.google.com/web/fundamentals/design-and-ux/responsive/
 
-## Practice
+# Practice
 ### Practice 1 (2w)
 **Anmum homepage project**
 #### Request
