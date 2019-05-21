@@ -1,6 +1,6 @@
+## Knowledge (1w)
 # HTML
 [HTML5 Tutorial on W3schools](https://www.w3schools.com/html/default.asp)
-## Knowledge (4h)
 **HTML elements.**
 *Answer what, when, why for each element*
 * [HTML Head](https://www.w3schools.com/html/html_head.asp "HTML Head")
@@ -33,6 +33,47 @@
 * [How to import font](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
 * [Font icon](https://www.sitepoint.com/introduction-icon-fonts-font-awesome-icomoon/)
 
-#JS
+# JS
+
 https://www.w3schools.com/js/default.asp
+https://www.udemy.com/javascriptfundamentals/
+https://developer.mozilla.org/vi/docs/Web/JavaScript
+
+# How To
+
+### html/css
+* CSS Loader (https://www.w3schools.com/howto/howto_css_loader.asp)
+* Animated Menu Icon (https://www.w3schools.com/howto/howto_css_menu_icon.asp)
+* Toggle Switch (https://www.w3schools.com/howto/howto_css_switch.asp)
+* Custom Checkbox (https://www.w3schools.com/howto/howto_css_custom_checkbox.asp)
+* Custom Select (https://www.w3schools.com/howto/howto_custom_select.asp)
+* Aspect Ratio (https://www.w3schools.com/howto/howto_css_aspect_ratio.asp)
+* Responsive Images (https://www.w3schools.com/howto/howto_css_image_responsive.asp)
+* Image Text (https://www.w3schools.com/howto/howto_css_image_text.asp)
+* Parallax Scrolling (https://www.w3schools.com/howto/howto_css_parallax.asp)
+* 3D Flip Box (https://www.w3schools.com/howto/howto_css_flip_box.asp)
+* CSS Arrows (https://www.w3schools.com/howto/howto_css_arrows.asp)
+* Google Fonts (https://www.w3schools.com/howto/howto_google_fonts.asp)
+### HTML/CSS + JS
+* Shrink Navigation Menu on Scroll (https://www.w3schools.com/howto/howto_js_navbar_shrink_scroll.asp)
+* Slideshow (https://www.w3schools.com/howto/howto_js_slideshow.asp)
+* Accordion (https://www.w3schools.com/howto/howto_js_accordion.asp)
+* Dropdowns (https://www.w3schools.com/howto/howto_css_dropdown.asp)
+* Modal Box (https://www.w3schools.com/howto/howto_css_modals.asp)
+* Lightbox (https://www.w3schools.com/howto/howto_js_lightbox.asp)
+* Tabs (https://www.w3schools.com/howto/howto_js_tabs.asp)
+* Range Sliders (https://www.w3schools.com/howto/howto_js_rangeslider.asp)
+* Sticky Navbar (https://www.w3schools.com/howto/howto_js_navbar_sticky.asp)
+* Slide Bar on Scroll (https://www.w3schools.com/howto/howto_js_navbar_slide.asp)
+* Scroll Indicator (https://www.w3schools.com/howto/howto_js_scroll_indicator.asp)
+
+### Advanced
+* Fullscreen Navigation (https://www.w3schools.com/howto/howto_js_fullscreen_overlay.asp)
+* Image Zoom (https://www.w3schools.com/howto/howto_js_image_zoom.asp)
+* Image Magnifier Glass (https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp)
+* Image Comparison Slider (https://www.w3schools.com/howto/howto_js_image_comparison.asp)
+* Scroll Drawing (https://www.w3schools.com/howto/howto_js_scrolldrawing.asp)
+* Custom Scrollbars (https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp)
+* Autocomplete (https://www.w3schools.com/howto/howto_js_autocomplete.asp)
+* Fullscreen Video Background (https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
 ###End
