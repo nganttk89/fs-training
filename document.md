@@ -76,4 +76,14 @@ https://developer.mozilla.org/vi/docs/Web/JavaScript
 * Custom Scrollbars (https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp)
 * Autocomplete (https://www.w3schools.com/howto/howto_js_autocomplete.asp)
 * Fullscreen Video Background (https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
+
+## Practice
+### Practice 1 (2w)
+**Anmum homepage project**
+#### Request
+* Responsive
+* Fullpagejs for dessktop, tablet (https://alvarotrigo.com/fullPage/)
+* Youtube API
+### Practice 2 (1w)
+**Fashion homepage project**
 ###End
